@@ -176,6 +176,5 @@ This project uses `openai.Completion.create` with the `text-davinci-003` model a
 
 ---
 
-## License
 
-Add your preferred license (MIT, Apache 2.0, etc.).
+
